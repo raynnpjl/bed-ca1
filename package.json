@@ -1,0 +1,19 @@
+{
+  "name": "bed-ca1-raynnpjl-sch",
+  "version": "1.0.0",
+  "description": "You are required to build your folder structures for your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.9"
+  }
+}
